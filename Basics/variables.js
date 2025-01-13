@@ -17,3 +17,14 @@ console.log(favoriteFood);
 const birthYear = 2002;
 // const birthYear = 2003; // const cannot be redeclared or reassigned
 console.log(birthYear);
+
+
+/* scopes
+
+1. Global scope - a varibale decleared outside of any function or block
+2. Function scope - a varibale decleared inside a function
+3. Block scope - a varibale decleared inside a block {} limited to that block
+4. Lexical scope - a varibale decleared inside a function, limited to that function
+
+
+*/
